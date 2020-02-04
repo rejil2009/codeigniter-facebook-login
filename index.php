@@ -22,8 +22,6 @@
 
     <!-- Login Form -->
     <form action="login_db.php" method="post" id="login" name="login">
-      <input type="text" id="login" class="fadeIn second" name="mobile" placeholder="mobile">
-      <input type="text" id="password" class="fadeIn third" name="password" placeholder="password">
       <input type="submit" class="fadeIn fourth" value="Log In">
     </form>
 
